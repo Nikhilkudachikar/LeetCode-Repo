@@ -6,7 +6,7 @@ class Solution:
         a1=[]
         for i in s:
             a1.append(i)
-            if i in "aeiou" or i in "AEIOU":
+            if i in "aeiouAEIOU":
                 ind.append(c1)
                 vowels.append(i)
             c1+=1
