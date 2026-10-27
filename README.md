@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0067-add-binary) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
