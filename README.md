@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/Nikhilkudachikar/LeetCode-Repo/tree/master/0434-number-of-segments-in-a-string) |
 ## Simulation
 |  |
 | ------- |
