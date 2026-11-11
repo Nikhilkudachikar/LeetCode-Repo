@@ -2,9 +2,10 @@ class Solution:
     def licenseKeyFormatting(self, s: str, k: int) -> str:
         s1=s.split("-")
         l=0
-        for i in range(1,len(s1)):
+        s1_l=len(s1)
+        for i in range(1,s1_l):
             l+=len(s1[i])
-        if (len(s1)==2 and s1[1]==""):
+        if (s1_l==2 and s1[1]==""):
             rem= (l+len(s1[0]))%k
             s2="".join(s1).upper()
             g0=s2[:rem:]
