@@ -1,6 +1,8 @@
 class Solution:
     def licenseKeyFormatting(self, s: str, k: int) -> str:
         s2=s.replace("-","").upper()
+        if k==1:
+            return "-".join(s2)
         l=len(s2)
         first=l%k or k
         s4=[s2[:first]]
