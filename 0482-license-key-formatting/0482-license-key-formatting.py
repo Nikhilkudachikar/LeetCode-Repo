@@ -5,5 +5,4 @@ class Solution:
         while s2:
             s4.append(s2[-k:])
             s2=s2[:-k]
-            
         return "-".join(s4[::-1])
